@@ -1,0 +1,1 @@
+The info command is designed to display information about a program. It displays the program version, author, GitHub repository, and the license under which the program is distributed.
