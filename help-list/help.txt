@@ -1,0 +1,1 @@
+The help command is used to display available commands. In addition, there is a --h parameter for all built-in commands, which displays help for a given command.
