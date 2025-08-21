@@ -9,5 +9,9 @@ Termicom is a command line interpreter written by filcher in the C++ programming
 - `info` - displays information about the program
 - `ls` - lists files and directories in a directory
 
+# About the project
+<img src="tc.png" width="100px">
+Termicom is a command line interpreter written by filcher in the C++ programming language. (Previously developed in Python). The first version was created on November 12, 2023 by the developer filcher. The latest version on Python was 1.0.3, November 29, 2023
+
 # ⚖️ License
-The Termikom program, all its libraries and programs are distributed under the GNU General Public License
+The Termikom program, all its libraries and programs are distributed under the [GNU General Public License](https://github.com/filcherock/Termicom/blob/main/LICENSE)
