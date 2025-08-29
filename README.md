@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=48&letterSpacing=&duration=1500&pause=1000&color=66F733&vCenter=true&width=500&height=100&lines=Termicom;Refresh+everything)](https://git.io/typing-svg)
 
+[![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](#)
+[![Version](https://img.shields.io/badge/version-1.0.3-blue.svg)](#)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#)
 ---
 
 Termicom is a command line interpreter written by filcher in the C++ programming language. (Previously developed in Python).
